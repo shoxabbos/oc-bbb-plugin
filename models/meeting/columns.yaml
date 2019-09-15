@@ -1,0 +1,58 @@
+columns:
+    id:
+        label: id
+        type: number
+    meetingid:
+        label: meetingid
+        type: text
+    attendeepw:
+        label: attendeepw
+        type: text
+        invisible: false
+    moderatorpw:
+        label: moderatorpw
+        type: text
+        invisible: false
+    welcome:
+        label: welcome
+        type: text
+        invisible: true
+    dialnumber:
+        label: dialnumber
+        type: text
+        invisible: true
+    voicebridge:
+        label: voicebridge
+        type: text
+        invisible: true
+    webvoice:
+        label: webvoice
+        type: text
+        invisible: true
+    maxparticipants:
+        label: maxparticipants
+        type: number
+        invisible: true
+    logouturl:
+        label: logouturl
+        type: text
+        invisible: true
+    record:
+        label: record
+        type: text
+        invisible: true
+    duration:
+        label: duration
+        type: number
+        invisible: true
+    created_at:
+        label: created_at
+        type: datetime
+        invisible: false
+    updated_at:
+        label: updated_at
+        type: datetime
+        invisible: true
+    user_id:
+        label: user_id
+        type: number

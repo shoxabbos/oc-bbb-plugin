@@ -1,0 +1,11 @@
+plugin:
+    name: 'shohabbos.bigbluebutton::lang.plugin.name'
+    description: 'shohabbos.bigbluebutton::lang.plugin.description'
+    author: Shohabbos
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    metings:
+        label: Meetings
+        url: shohabbos/bigbluebutton/meetings
+        icon: icon-life-ring
